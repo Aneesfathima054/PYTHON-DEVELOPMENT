@@ -1,0 +1,5 @@
+def string_reverse(text):
+    return text [::-1]
+input_text =input("enter string: ")
+print("Reversed string is:",string_reverse(input_text))
+
